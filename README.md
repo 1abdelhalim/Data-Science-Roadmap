@@ -3,13 +3,13 @@
 Welcome to the Data Science Roadmap repository! This roadmap is designed to guide you through the exciting journey of data science, whether you're a beginner, intermediate learner, or an advanced practitioner. It covers a range of topics and resources to help you build your skills and knowledge in this field.
 
 ## Sections
-- [Tips](#tips)
+- [Notes](#Notes)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
 - [License](#license)
 
-## Notes & Tips
+## Notes
 
 - **Learning is an Iterative Process**  
     Data science is not a linear path.
@@ -105,7 +105,8 @@ For those who have some experience in data science and want to deepen their know
 - [Linear Algebra | Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 - [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 - [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [YouTube Arabic]()
+- [Master Linear Algebra Arabic](https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&feature=shared)
+  
 - [Probability | Khan Academy]()
 
 **ML**
