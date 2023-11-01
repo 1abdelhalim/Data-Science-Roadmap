@@ -30,13 +30,6 @@ Welcome to the Data Science Roadmap repository! This roadmap is designed to guid
     Linear algebra and calculus for machine learning.
 
 
-
-
-
-
-
-
-
 ## Beginner
 If you're new to data science, start here to build a solid foundation. The beginner section covers fundamental concepts and resources to kickstart your data science journey.
 
@@ -66,9 +59,6 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [Pandas Course in Arabic](https://youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW&feature=shared)
 - [Pandas Course on Kaggle](https://www.kaggle.com/learn/pandas)
 
-**EDA (Week 8)**
-- [How to Ask Questions?](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
-
 **Data Cleaning(Week 9)**
 - [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 - [Data Cleaning on Kaggle](https://www.kaggle.com/learn/data-cleaning)
@@ -79,6 +69,11 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [Matplotlib Course YouTube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 - [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html)
 
+**EDA (Week 8)**
+- [How to Ask Questions?](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
+- [Intro to EDA ](https://youtu.be/xi0vhXFPegw?feature=shared)
+- [EDA in Python](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&feature=shared)
+  
 **SQL (Week12)**
 - [Free Code Camp](https://youtu.be/HXV3zeQKqGY)
 - [Practice Hackerrank](https://www.hackerrank.com/domains/sql)
@@ -88,11 +83,13 @@ If you're new to data science, start here to build a solid foundation. The begin
 
 **Dashboards (Weeks 13,14)**
 - [Power BI](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)
-
-- [Tableau](https://www.tableau.com/learn/training/20201)
+- [Power BI Crash Course](https://youtu.be/0BKlUySopU4?feature=shared)
+- [Tableau Crash Course](https://www.youtube.com/watch?v=TPMlZxRRaBQ)
+- [Tableau Training](https://www.tableau.com/learn/training/20201)
 
 **Python Regular Expression (Week 15)**
-
+- [Corey Schafer](https://youtu.be/K8L6KVGG-7o?feature=shared)
+- [ELzero Arabic](https://www.youtube.com/watch?v=QrYB2S1IZKo)
 
 
 ### Next Steps
