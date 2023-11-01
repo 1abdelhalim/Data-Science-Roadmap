@@ -7,7 +7,6 @@ Welcome to the Data Science Roadmap repository! This roadmap is designed to guid
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
-- [License](#license)
 
 ## Notes
 
