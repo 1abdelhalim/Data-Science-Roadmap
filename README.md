@@ -119,6 +119,8 @@ For those who have some experience in data science and want to deepen their know
 - [Book](https://drive.google.com/file/d/1BkJYO0tqMYptTWUDQ7X0vd2aygohHRm8/view?usp=sharing)
 
 **Advanced SQL**
+- [Kaggle Course](https://www.kaggle.com/learn/advanced-sql)
+- [Article](https://medium.com/dp6-us-blog/7-advanced-sql-concepts-you-need-to-know-45fa149ba0b0)
 
 **Time Series**
 - [Arabic](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)
