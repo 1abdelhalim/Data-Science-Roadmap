@@ -33,6 +33,7 @@ Welcome to the Data Science Roadmap repository! This roadmap is designed to guid
 If you're new to data science, start here to build a solid foundation. The beginner section covers fundamental concepts and resources to kickstart your data science journey.
 
 **Descriptive Statistics (Week1)**
+- [StatQuest](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&feature=shared)
 - [Probability and Statistics | Khan Academy](https://youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc&feature=shared)
 
 - [Foundations of Statistical Analysis in Arabic](https://youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe&feature=shared)
