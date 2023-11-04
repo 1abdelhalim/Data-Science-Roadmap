@@ -105,11 +105,14 @@ For those who have some experience in data science and want to deepen their know
 - [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 - [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Master Linear Algebra Arabic](https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&feature=shared)
+- [Math for ML Book](https://mml-book.github.io/)
   
 - [Probability | Khan Academy]()
 
 **ML**
 -[Hands On ML]()
+-[ML Andrew NG](https://www.coursera.org/specializations/machine-learning-introduction#courses)
+-[Open Data Science Course](https://mlcourse.ai/book/topic01/topic01_intro.html)
 
 **Feature Engineering**
 - [Kaggle](https://www.kaggle.com/learn/feature-engineering)
@@ -136,14 +139,8 @@ Once you've mastered the topics in this section, consider exploring the [Advance
 ## Advanced
 If you're an experienced data scientist looking to explore specialized areas and stay at the cutting edge of the field, the advanced section provides in-depth content and resources.
 
-### Topics
-- Natural Language Processing
-- Computer Vision
-
-
-### Recommended Resources
-- [Stanford's "Natural Language Processing with Deep Learning" course](link)
-- [edX's "Big Data Analytics" program](link)
+**Deep Learning**
+- [DL Andrew NG](https://www.coursera.org/specializations/deep-learning#courses)
 
 
 ### Next Steps
