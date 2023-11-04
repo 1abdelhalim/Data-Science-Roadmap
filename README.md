@@ -128,12 +128,7 @@ For those who have some experience in data science and want to deepen their know
 
 **Web Scraping**
 - [Tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
-
-### Recommended Resources
-- [Coursera's "Machine Learning" course by Andrew Ng](link)
-- [Fast.ai's Deep Learning for Coders course](link)
-- [Kaggle's Feature Engineering techniques](link)
-- [Udacity's "Time Series Forecasting" course](link)
+  
 
 ### Next Steps
 Once you've mastered the topics in this section, consider exploring the [Advanced](#advanced) section of the roadmap for specialized areas of data science.
