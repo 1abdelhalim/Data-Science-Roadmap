@@ -119,6 +119,7 @@ For those who have some experience in data science and want to deepen their know
 
 **Time Series**
 - [Arabic](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)
+- [Kaggle Course](https://www.kaggle.com/learn/time-series)
 
 **Web Scraping**
 - [Tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
