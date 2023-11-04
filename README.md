@@ -45,6 +45,7 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [Python  Course for Beginners in Arabic](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&feature=shared)
 - [OOP Course With Python FreeCodeCamp](https://youtu.be/Ej_02ICOIgs?feature=shared)
 - [OOP Course With Python In Arabic](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1&feature=shared)
+- [Kaggle Course](https://www.kaggle.com/learn/python)
 - [Real Python Tutorial](https://realpython.com/learning-paths/python3-introduction/)
 - [Python Tutorial](https://www.pythontutorial.net/getting-started/)
 - [OOP Real Python Tutorial](https://realpython.com/python3-object-oriented-programming/)
