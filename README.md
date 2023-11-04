@@ -50,7 +50,7 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [Python Tutorial](https://www.pythontutorial.net/getting-started/)
 - [OOP Real Python Tutorial](https://realpython.com/python3-object-oriented-programming/)
 
-**Numpy (Week5)** 
+**Numpy (Week 5)** 
 - [Numpy Course Free Code Camp](https://youtu.be/QUT1VHiLmmI?feature=shared)
 - [Numpy Course in Arabic](https://youtube.com/playlist?list=PLuRv1IekA3YVAMh7Is9PRsM7IMLhLS787&feature=shared)
 
@@ -60,7 +60,7 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [Pandas Course in Arabic](https://youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW&feature=shared)
 - [Pandas Course on Kaggle](https://www.kaggle.com/learn/pandas)
 
-**Data Cleaning(Week 7)**
+**Data Cleaning (Week 7)**
 - [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 - [Data Cleaning on Kaggle](https://www.kaggle.com/learn/data-cleaning)
 
@@ -75,7 +75,7 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [Intro to EDA ](https://youtu.be/xi0vhXFPegw?feature=shared)
 - [EDA in Python](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&feature=shared)
   
-**SQL (Week11)**
+**SQL (Week 11)**
 - [SQL Tutorial](https://sqltutorial.org/)
 - [Free Code Camp](https://youtu.be/HXV3zeQKqGY)
 - [Practice Hackerrank](https://www.hackerrank.com/domains/sql)
