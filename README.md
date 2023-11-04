@@ -75,6 +75,7 @@ If you're new to data science, start here to build a solid foundation. The begin
 - [EDA in Python](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&feature=shared)
   
 **SQL (Week12)**
+- [SQL Tutorial](https://sqltutorial.org/)
 - [Free Code Camp](https://youtu.be/HXV3zeQKqGY)
 - [Practice Hackerrank](https://www.hackerrank.com/domains/sql)
 - [Practice DataLemur](https://datalemur.com/)
