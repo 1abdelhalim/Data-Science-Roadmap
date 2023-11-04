@@ -110,9 +110,9 @@ For those who have some experience in data science and want to deepen their know
 - [Probability | Khan Academy]()
 
 **ML**
--[Hands On ML]()
--[ML Andrew NG](https://www.coursera.org/specializations/machine-learning-introduction#courses)
--[Open Data Science Course](https://mlcourse.ai/book/topic01/topic01_intro.html)
+- [Hands On ML]()
+- [ML Andrew NG](https://www.coursera.org/specializations/machine-learning-introduction#courses)
+- [Open Data Science Course](https://mlcourse.ai/book/topic01/topic01_intro.html)
 
 **Feature Engineering**
 - [Kaggle](https://www.kaggle.com/learn/feature-engineering)
